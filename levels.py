@@ -169,4 +169,4 @@ LEVELS = [Level([
 	'B                       B',
 	'B                      EB',
 	'BBBBBBBBBBBBBBBBBBBBBBBBB'
-	], [["...\"I like the way this is going\".", [64, 32]]], [32, 18*32])]
+	], [["...\"I love you.\".", [64, 32]]], [32, 18*32])]
